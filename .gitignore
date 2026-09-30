@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Secrets & Environment Variables
+.env
+*.env.local
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.keras
+*.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated model files
+*.keras
+*.h5

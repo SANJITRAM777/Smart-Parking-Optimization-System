@@ -1,0 +1,23 @@
+# Core Backend
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.0.0
+
+# Data Analysis & Preprocessing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Dashboard
+streamlit>=1.32.0
+
+# Utilities & Networking
+requests>=2.31.0
+
+# Deep Neural Network (DNN)
+tensorflow>=2.16.0
+
+# Generative AI (Google Gemini)
+google-genai>=2.0.0
+python-dotenv>=1.0.0
+
